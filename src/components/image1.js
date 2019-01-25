@@ -1,4 +1,5 @@
 import React from 'react'
+import './image.css'
 
 export default function  Image1(props){
   if (props.button1) {
